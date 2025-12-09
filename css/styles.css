@@ -94,6 +94,7 @@ a {
   border-radius: 4px;
   border: none;
   cursor: pointer;
+  letter-spacing: 0.04em;
 }
 
 .btn:hover,
